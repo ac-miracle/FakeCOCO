@@ -25,7 +25,7 @@ FakeCOCO is only used for academic research. Commercial use in any form is prohi
 
 **Comparison of `FakeCOCO` with existing benchmark.**
 
-<p align="center"><img src="docs/Comparison with existing benchmark.png" width="800"/></p>
+<p align="center"><img src="docs/Comparison with existing benchmark.jpg" width="800"/></p>
 To better understand the characteristics of our dataset, we visualized both FakeCOCO and GenImage for a side-by-side comparison. The key difference lies in their prompt sources:
 
 
