@@ -36,7 +36,7 @@ To better understand the characteristics of our dataset, we visualized both Fake
 As a result, our generated images tend to portray multifaceted scenes with multiple objects, diverse textures, and intricate interactions, allowing them to better simulate the real world.
 
 ### Download
-The proposed dataset "FakeCOCO" has been released on modelscope.
+The proposed dataset "FakeCOCO" has been released on [modelscope](https://www.modelscope.cn/datasets/acmiracle/FakeCOCO).
 
 
 ## 🚀 TODO
