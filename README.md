@@ -39,15 +39,21 @@ As a result, our generated images tend to portray multifaceted scenes with multi
 The proposed dataset "FakeCOCO" has been released on [modelscope](https://www.modelscope.cn/datasets/acmiracle/FakeCOCO).
 
 
-## 🚀 TODO
-
-- ✅ &nbsp; Release the FakeCOCO dataset
-
-- ⬜️ &nbsp; Release checkpoints
-
-- ⬜️ &nbsp; Release inference scripts
-
-- ⬜️ &nbsp; Release training code
-
 ## ✉️ Contact
 If you have any question about this project, please feel free to contact zhcai25@m.fudan.edu.cn.
+
+## Citation
+
+```bibtex
+@ARTICLE{11617326,
+  author={Cai, Zihao and Song, Xue and Li, Xinghan and Li, Bo and Shan, Haijun and Chen, Jingjing},
+  journal={IEEE Transactions on Multimedia},
+  title={Incremental Learning for AI-Generated Image Detection},
+  year={2026},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Modeling;Signal detection;Incremental learning;Artificial intelligence;Learning (artificial intelligence);Training;Accuracy;Noise;Faces;Probability;AI-generated image detection;Incremental learning;Fake image detection dataset},
+  doi={10.1109/TMM.2026.3716041}
+}
+```
